@@ -1,5 +1,20 @@
 # @ts-rest/core
 
+## 3.45.2
+
+## 3.45.1
+
+## 3.45.0
+
+## 3.44.1
+
+## 3.44.0
+
+### Minor Changes
+
+- 60f90fa: Allow entire contract to be passed to `TsRestResponseError` so common responses can be thrown easily
+- 45e5104: Add router-level metadata
+
 ## 3.43.0
 
 ### Minor Changes
