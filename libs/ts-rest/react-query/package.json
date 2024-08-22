@@ -1,6 +1,6 @@
 {
   "name": "@ts-rest/react-query",
-  "version": "3.43.0",
+  "version": "3.45.2",
   "description": "react-query client integration for @ts-rest",
   "license": "MIT",
   "keywords": [
@@ -28,6 +28,14 @@
   "peerDependenciesMeta": {
     "zod": {
       "optional": true
+    }
+  },
+  "typesVersions": {
+    "*": {
+      "*": [
+        "*",
+        "*.cjs.d.ts"
+      ]
     }
   }
 }
