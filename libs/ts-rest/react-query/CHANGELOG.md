@@ -1,5 +1,19 @@
 # @ts-rest/react-query
 
+## 3.45.2
+
+## 3.45.1
+
+## 3.45.0
+
+### Minor Changes
+
+- 5f83426: Export the entire `@tanstack/react-query` from `@ts-rest/react-query/tanstack` to fix `No QueryClient set` errors caused by version mismatches
+
+## 3.44.1
+
+## 3.44.0
+
 ## 3.43.0
 
 ## 3.42.0

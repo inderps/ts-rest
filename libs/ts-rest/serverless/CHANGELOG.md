@@ -1,5 +1,39 @@
 # @ts-rest/serverless
 
+## 3.45.2
+
+### Patch Changes
+
+- f5febbf: Change response handler type to accept promises
+  - @ts-rest/core@3.45.2
+
+## 3.45.1
+
+### Patch Changes
+
+- @ts-rest/core@3.45.1
+
+## 3.45.0
+
+### Patch Changes
+
+- @ts-rest/core@3.45.0
+
+## 3.44.1
+
+### Patch Changes
+
+- 08878f0: Create type helpers for route-level middleware context
+  - @ts-rest/core@3.44.1
+
+## 3.44.0
+
+### Patch Changes
+
+- Updated dependencies [60f90fa]
+- Updated dependencies [45e5104]
+  - @ts-rest/core@3.44.0
+
 ## 3.43.0
 
 ### Minor Changes
